@@ -43,27 +43,30 @@ GitHub Pages (Deployment)
 
 📸 Screenshots
 🏠 Home Section
-![Home](assets/screenshots/home.png)
+<img width="1910" height="865" alt="Screenshot 2026-02-14 100752" src="https://github.com/user-attachments/assets/31ee3d42-b7f8-4597-af89-78cebe29e04b" />
+
 
 💼 Projects Section
-![Projects](assets/screenshots/projects.png)
+<img width="1908" height="773" alt="Screenshot 2026-02-14 100842" src="https://github.com/user-attachments/assets/51c55ea3-d970-407e-9a37-66f3826679a8" />
+
 
 📩 Contact Section
-![Contact](assets/screenshots/contact.png)
+<img width="1906" height="745" alt="Screenshot 2026-02-14 100905" src="https://github.com/user-attachments/assets/2a81e7e3-e91f-4fe7-98ea-6c07017d7cad" />
+
 
 📂 Projects Included
 
-Weather Application
+     ->Weather Application
 
-Todo List App
+     ->Todo List App
 
-University Website
+     ->University Website
 
-Task Management System
+     ->Task Management System
 
-Pneumonia Detection (AI Project)
+     ->Pneumonia Detection (AI Project)
 
-Personal Portfolio
+     ->Personal Portfolio
 
 ⚙️ Run Locally
 git clone https://github.com/kishore631/Personal-Portfolio.git
