@@ -1,26 +1,86 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+⭐ Personal Portfolio – Gidigi Venkata Kishore
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+A responsive developer portfolio website showcasing my projects, skills, education, and experience.
+Built using modern frontend technologies and deployed using GitHub Pages.
+
+🔗 Live Website:
+https://kishore631.github.io/Personal-Portfolio/
+
+👨‍💻 About Me
+
+I am Gidigi Venkata Kishore, a recently graduated B.Tech student passionate about software development and Artificial Intelligence.
+I enjoy building web applications, solving problems, and learning modern technologies including AI/ML and Generative AI.
+
+🚀 Features
+
+Fully Responsive Design (Mobile + Desktop)
+
+Smooth Scrolling Navigation
+
+Interactive Skills Section
+
+Project Showcase with Live Links
+
+Experience Timeline
+
+Contact Form (Formspree Email Integration)
+
+Clean UI & Modern Design
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Git & GitHub
+
+Formspree (Contact Form)
+
+GitHub Pages (Deployment)
+
+📸 Screenshots
+🏠 Home Section
+<img width="1910" height="865" alt="Screenshot 2026-02-14 100752" src="https://github.com/user-attachments/assets/31ee3d42-b7f8-4597-af89-78cebe29e04b" />
 
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+💼 Projects Section
+<img width="1908" height="773" alt="Screenshot 2026-02-14 100842" src="https://github.com/user-attachments/assets/51c55ea3-d970-407e-9a37-66f3826679a8" />
 
 
-<h2>📬 Contact</h2>
+📩 Contact Section
+<img width="1906" height="745" alt="Screenshot 2026-02-14 100905" src="https://github.com/user-attachments/assets/2a81e7e3-e91f-4fe7-98ea-6c07017d7cad" />
 
-Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+📂 Projects Included
+
+     ->Weather Application
+
+     ->Todo List App
+
+     ->University Website
+
+     ->Task Management System
+
+     ->Pneumonia Detection (AI Project)
+
+     ->Personal Portfolio
+
+⚙️ Run Locally
+git clone https://github.com/kishore631/Personal-Portfolio.git
+cd Personal-Portfolio
+open index.html
+
+📬 Contact
+
+Email: gidigivenkatakishore@gmail.com
+
+GitHub: https://github.com/kishore631
+
+Portfolio: https://kishore631.github.io/Personal-Portfolio/
+
+⭐ Support
+
+If you like this project, give it a star ⭐ on GitHub!
